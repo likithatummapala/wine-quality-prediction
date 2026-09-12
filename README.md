@@ -23,6 +23,5 @@ This project was built as part of Data Cleaning - handling imbalanced datasets u
 - Target: quality
 
 ### 🔧 How to Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+1. clone the repo
+   https://github.com/likithatummapala/wine-quality-prediction.git
