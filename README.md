@@ -4,7 +4,7 @@ A machine learning web application to predict the quality of red wine based on i
 
 This project was built as part of Data Cleaning - handling imbalanced datasets using SMOTE.
 
-**Live Demo:** (Deploy ayyaka link ikkada pedtam)
+**Live Demo:https://wine-quality-prediction-k2rbcscmltaakglksukcys.streamlit.app/
 
 ### ✨ Features
 - Predicts wine quality (3 to 8) from chemical inputs
